@@ -4,13 +4,13 @@ header{
     display: flex;
     flex-direction: row;
 }
+
 nav a{
     font-size: medium;color: brown;
     text-decoration-line: none;
     text-align: right;
     text-align: justify;
-    margin: 0%;
-    padding 0%;
+
 }
 
 header ul{
